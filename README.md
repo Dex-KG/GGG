@@ -15,6 +15,8 @@
 
 ## 🚀 Как запустить локально?
 1. Клонируйте репозиторий:
-```bash
+```git add .
+git commit -m "Обновил README и структуру проекта"
+git push origin main
 git clone https://github.com/https://github.com/Dex-KG/GGG.git/repo.git
 cd ГГГ
