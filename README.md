@@ -1,31 +1,8 @@
-# 🚀 Мой сайт на GitHub Pages
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://https://github.com/Dex-KG/GGG.git.github.io)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-Этот статический сайт создан с помощью GitHub Pages и автоматически обновляется при каждом коммите.
-
-## 🌐 Посмотреть сайт
-👉 [Открыть сайт](https://https://github.com/Dex-KG/GGG.git.github.io)
-
-## 🛠 Технологии
-- **HTML5** - базовая разметка
-- **CSS3** - стилизация
-- **JavaScript** - интерактивность
-- **GitHub Actions** - автоматический деплой
-
-## 📂 Структура проекта
-project/
-├── index.html
-├── styles/
-│ └── main.css
-├── scripts/
-│ └── app.js
-│ └── preview.jpg
-└── README.md
-
-## 🚀 Быстрый старт
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/https://github.com/Dex-KG/GGG.git/GGG.git
-cd GGG
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Мой сайт</h1>
+</body>
+</html>
+Branch: main (или gh-pages)
+Folder: / (root)
