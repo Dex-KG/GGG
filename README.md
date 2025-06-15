@@ -1,18 +1,20 @@
-# Мой сайт на GitHub Pages  
+# Мой сайт на GitHub Pages
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://username.github.io)  
+[![GitHub Pages Status](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://username.github.io)
 
-Этот сайт размещён с помощью **GitHub Pages**.  
+Этот сайт размещён с помощью **GitHub Pages** и автоматически обновляется при каждом коммите.
 
-## 🔗 Ссылка на сайт  
-👉 [https://username.github.io](https://username.github.io)  
+## 🔗 Ссылка на сайт
+👉 [Открыть сайт](https://username.github.io)
 
-## 🛠 Технологии  
-- HTML, CSS, JavaScript  
-- GitHub Actions  
+## 🛠 Технологии
+- **HTML5** - структура сайта
+- **CSS3** - стилизация
+- **JavaScript** - интерактивность
+- **GitHub Actions** - автоматический деплой
 
-## 🚀 Как запустить локально?  
-```sh
+## 🚀 Как запустить локально?
+1. Клонируйте репозиторий:
+```bash
 git clone https://github.com/username/repo.git
 cd repo
-open index.html  # или запустите через Live Server (VS Code)
