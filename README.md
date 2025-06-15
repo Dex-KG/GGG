@@ -1,22 +1,31 @@
-# Мой сайт на GitHub Pages
+# 🚀 Мой сайт на GitHub Pages
 
-[![GitHub Pages Status](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://username.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://github.com/Dex-KG/GGG.gi.github.io)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Этот сайт размещён с помощью **GitHub Pages** и автоматически обновляется при каждом коммите.
+Этот статический сайт создан с помощью GitHub Pages и автоматически обновляется при каждом коммите.
 
-## 🔗 Ссылка на сайт
-👉 [Открыть сайт](https://username.github.io)
+## 🌐 Посмотреть сайт
+👉 [Открыть сайт](https://github.com/Dex-KG/GGG.gi.github.io)
 
 ## 🛠 Технологии
-- **HTML5** - структура сайта
+- **HTML5** - базовая разметка
 - **CSS3** - стилизация
 - **JavaScript** - интерактивность
 - **GitHub Actions** - автоматический деплой
 
-## 🚀 Как запустить локально?
+## 📂 Структура проекта
+project/
+├── index.html
+├── styles/
+│ └── main.css
+├── scripts/
+│ └── app.js
+│ └── preview.jpg
+└── README.md
+
+## 🚀 Быстрый старт
 1. Клонируйте репозиторий:
-```git add .
-git commit -m "Обновил README и структуру проекта"
-git push origin main
-git clone https://github.com/https://github.com/Dex-KG/GGG.git/repo.git
-cd ГГГ
+```bash
+git clone https://github.com/https://github.com/Dex-KG/GGG.git/GGG.git
+cd GGG
