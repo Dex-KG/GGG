@@ -16,5 +16,5 @@
 ## 🚀 Как запустить локально?
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/username/repo.git
-cd repo
+git clone https://github.com/https://github.com/Dex-KG/GGG.git/repo.git
+cd ГГГ
