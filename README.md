@@ -1,12 +1,12 @@
 # 🚀 Мой сайт на GitHub Pages
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://github.com/Dex-KG/GGG.gi.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://github.com/Dex-KG/GGG.gi.)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Этот статический сайт создан с помощью GitHub Pages и автоматически обновляется при каждом коммите.
 
 ## 🌐 Посмотреть сайт
-👉 [Открыть сайт](https://github.com/Dex-KG/GGG.gi.github.io)
+👉 [Открыть сайт](https://github.com/Dex-KG/GGG.gi.)
 
 ## 🛠 Технологии
 - **HTML5** - базовая разметка
